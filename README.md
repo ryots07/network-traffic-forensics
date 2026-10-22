@@ -1,4 +1,7 @@
-# network-traffic-forensics
+# Network Traffic Forensics & Suspicious Activity Detection
+
+[**View all cybersecurity projects →**](https://ryots07.github.io/network-traffic-forensics/portfolio.html)
+
 Network Traffic Forensics is a practical cybersecurity project focused on analyzing network traffic and identifying indicators of potentially suspicious activity.
 
 The project was conducted in a controlled Kali Linux environment using Wireshark and TCPdump, with supporting tools such as nslookup and curl.
