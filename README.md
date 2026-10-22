@@ -1,6 +1,6 @@
 # Network Traffic Forensics & Suspicious Activity Detection
 
-[**View all cybersecurity projects →**](https://ryots07.github.io/network-traffic-forensics/portfolio.html)
+[**View all cybersecurity projects →**](https://ryots07.github.io/Portfolio/)
 
 Network Traffic Forensics is a practical cybersecurity project focused on analyzing network traffic and identifying indicators of potentially suspicious activity.
 
